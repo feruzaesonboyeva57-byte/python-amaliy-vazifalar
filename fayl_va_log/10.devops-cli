@@ -1,0 +1,7 @@
+#!/bin/bash
+# DevOps toolkit command wrapper
+echo -e "\n~~ DevOps CLI Helper ~~\n"
+echo "System uptime:"
+uptime
+echo -e "\nActive Memory:"
+free -h
